@@ -1,1 +1,3 @@
-# get-prime-factoooors-npm-package
+# get-prime-factoooors
+
+It does what it says :)
